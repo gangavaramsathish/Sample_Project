@@ -202,7 +202,7 @@
               <repository>
 		  <id>1</id>
 	          <name>Internal releases</name>
-		      <url>http://13.59.15.198:8081/repository/sathish/</url>
+		      <url>http://13.59.15.198:8081/repository/vamsi/</url>
 	      </repository>
 	      <snapshotRepository>
 		  <id>deployment</id>
